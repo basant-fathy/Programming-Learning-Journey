@@ -9,7 +9,7 @@ The goal of this repository is documentation, consistency, and visible progress 
 
 ## 🗺️ Roadmap Overview
 
-![Developer Roadmap](ProgrammingAdvicesRoadMap.png)
+![Programming Advices Roadmap](ProgrammingAdvicesRoadMap.png)
 
 ---
 
