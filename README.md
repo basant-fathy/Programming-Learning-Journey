@@ -1,6 +1,6 @@
 # 🧩 Programming Learning Roadmap
 
-This repository tracks my **long-term learning journey (approximately 2 years)** toward becoming a **Backend / Full-Stack / Desktop Developer**.  
+This repository tracks my **long-term learning journey (approximately 2 years)** toward building strong foundations for **Backend, Full-Stack, and Desktop Development**.  
 The roadmap follows the structure of the **Programming Advices** platform and focuses heavily on **hands-on practice and problem solving**.
 
 The goal of this repository is documentation, consistency, and visible progress — not just watching courses, but applying what I learn.
