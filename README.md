@@ -162,3 +162,10 @@ The goal of this repository is documentation, consistency, and visible progress 
 - Courses are 90% practical and 10% theoretical.  
 - Emphasis is on **problem-solving first**, then applying solutions with technology.  
 - Extra advanced stage (yellow courses) is optional, but highly recommended for mastering modern development practices.
+  
+---
+
+## © Copyright
+
+Copyright © 2026 Bassant Fathy  
+All rights reserved.
