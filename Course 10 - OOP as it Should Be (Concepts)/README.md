@@ -43,10 +43,10 @@ Throughout this course, I learned and applied:
 
 Several projects were implemented to apply OOP concepts correctly:
 
-- 💻 [**Calculator Project**](../Projects_10/Calculator-OOP.cpp) 
-- 💻 [**String Library Project**](../Libraries/clsString.h)  
-- 💻 [**Date Library Project**](../Libraries/clsDate.h)  
-- 💻 [**Period Class Design**](../Libraries/clsPeriod.h)
+- 💻 **Calculator Project**
+- 💻 **String Library Project**
+- 💻 **Date Library Project**
+- 💻 **Period Class Design**
 
 These projects focused on:
 - Proper class design  
