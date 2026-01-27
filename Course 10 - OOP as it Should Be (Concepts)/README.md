@@ -38,24 +38,21 @@ Throughout this course, I learned and applied:
 
 ### Practical Tasks
 - Practical exercises were applied after each lesson  
-> Solutions will be added later  
 
 ### Practical Projects (C++)
 
 Several projects were implemented to apply OOP concepts correctly:
 
-- 💻 **Calculator Project**  
-- 💻 **String Library Project**  
-- 💻 **Date Library Project**  
-- 💻 **Period Class Design**
+- 💻 [**Calculator Project**](../Projects_10/Calculator-OOP.cpp) 
+- 💻 [**String Library Project**](../Libraries/clsString.h)  
+- 💻 [**Date Library Project**](../Libraries/clsDate.h)  
+- 💻 [**Period Class Design**](../Libraries/clsPeriod.h)
 
 These projects focused on:
 - Proper class design  
 - Reusability and clean structure  
-- Applying OOP concepts in realistic scenarios  
-
->  will be added later  
-
+- Applying OOP concepts in realistic scenarios
+  
 ---
 
 ## 📄 Certificate
